@@ -1,8 +1,7 @@
 <div align="center">
-  <img height="150" src="https://tenor.com/es-419/view/bender-futurama-dancing-banana-gif-11063486899828828460"  />
+  <img height="150" src="https://freepngimg.com/thumb/futurama/136066-futurama-bender-free-png-hq.png" />
 </div>
 
-###
 
 <div align="center">
 </div>
@@ -69,12 +68,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
 
-<h3 align="left">🔥   Stats :</h3>
-
-###
-
-<p align="center">## 🎧 Recently Played<br><br>![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31f2ulwygpnhkn7czzurp2ay54ha)</p>
+## 🎧 Recently Played
+<br>![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31f2ulwygpnhkn7czzurp2ay54ha)</p>
 
 ###
