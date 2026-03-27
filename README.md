@@ -10,17 +10,13 @@
 
 <h1 align="center">Enjoy the silence</h1>
 
-###
-
-<h3 align="left">👩‍💻  Daniela Corrales</h3>
+## 👩‍💻  Daniela Corrales</h3>
 
 ###
 
 <p align="left">📚 Computer Engineering in Management and Information Systems  - School of Engineering of Bilbao (UPV/EHU)</p>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+## 🛠 Language and tools</h3>
 
 ###
 
