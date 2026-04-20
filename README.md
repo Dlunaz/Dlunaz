@@ -1,10 +1,3 @@
-<div align="center">
-  <img height="150" src="https://freepngimg.com/thumb/futurama/136066-futurama-bender-free-png-hq.png" />
-</div>
-
-
-<div align="center">
-</div>
 
 ###
 
